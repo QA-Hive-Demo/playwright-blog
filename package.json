@@ -1,0 +1,21 @@
+{
+  "name": "playwright-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QA-Hive-Demo/playwright-blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QA-Hive-Demo/playwright-blog/issues"
+  },
+  "homepage": "https://github.com/QA-Hive-Demo/playwright-blog#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.23.4"
+  }
+}
