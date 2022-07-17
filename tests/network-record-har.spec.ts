@@ -7,8 +7,6 @@ test('mock network using HAR file', async ({ page }) => {
   
   // Replay record HAR files
   await page.routeFromHAR('hars/valid-login-har.har');
-  
-  await page.pause();
 
   await page.fill('id=userName', 'demoqahive0123');
   await page.fill('id=password', 'T@stpw120');
