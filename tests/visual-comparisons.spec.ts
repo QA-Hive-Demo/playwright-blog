@@ -12,9 +12,14 @@ test('example page screenshot', async ({ page }) => {
   await expect(page).toHaveScreenshot('landing.png');
 });
 
-test.only('example full page screenshot', async ({ page }) => {
+test('example full page screenshot', async ({ page }) => {
   await page.goto('https://playwright.dev');
   await expect(page).toHaveScreenshot('landing-full-page.png', { fullPage: true });
+});
+
+test('example element screenshot', async({ page }) => {
+  await page.goto('https://playwright.dev');
+  await expect(await page.locator('div.main-wrapper').screenshot()).toMatchSnapshot('main-wrapper.png');
 });
 
 test('example test text snaptshot', async ({ page }) => {
