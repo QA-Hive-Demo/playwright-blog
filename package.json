@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "run": "npx playwright test"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/QA-Hive-Demo/playwright-blog.git"
