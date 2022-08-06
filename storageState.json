@@ -1,0 +1,141 @@
+{
+  "cookies": [
+    {
+      "sameSite": "Lax",
+      "name": "_ga",
+      "value": "GA1.2.2048045383.1659764170",
+      "domain": ".demoqa.com",
+      "path": "/",
+      "expires": 1694324170.096566,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "_gid",
+      "value": "GA1.2.468411726.1659764170",
+      "domain": ".demoqa.com",
+      "path": "/",
+      "expires": 1659850570,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "_gat_UA-109033876-1",
+      "value": "1",
+      "domain": ".demoqa.com",
+      "path": "/",
+      "expires": 1659764230,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "__gpi",
+      "value": "UID=0000084fceb7751d:T=1659764169:RT=1659764169:S=ALNI_MZlimYZKF3iAISk-6sEohf4XEmP8A",
+      "domain": ".demoqa.com",
+      "path": "/",
+      "expires": 1693460169,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "None",
+      "name": "IDE",
+      "value": "AHWqTUmKFB3Q8Jtqgpa9R6sIEhnpZixXSsKHzLawU09hdPdLzgyljj_OK3KvAyZXTcU",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1694324170.666902,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "DSID",
+      "value": "NO_DATA",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1659767770.94078,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "sameSite": "Lax",
+      "name": "__gads",
+      "value": "ID=e5f02e37f16953d6:T=1659764169:S=ALNI_Mac8eLpRaoJrPu2c5SU2BrQ3vHQ7g",
+      "domain": ".demoqa.com",
+      "path": "/",
+      "expires": 1693460169,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "token",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyTmFtZSI6ImRlbW9xYWhpdmUwMSIsInBhc3N3b3JkIjoiVEBzdHB3MTIwIiwiaWF0IjoxNjU5NzY0MTcyfQ.Ob7FezZAPePAtS4Q2_xbwtSICM6-hrlqQbVwyz1xLRk",
+      "domain": "demoqa.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "expires",
+      "value": "2022-08-13T05%3A36%3A12.113Z",
+      "domain": "demoqa.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "userID",
+      "value": "2cbacbe0-d531-42cf-a668-7c04502be3db",
+      "domain": "demoqa.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "userName",
+      "value": "demoqahive01",
+      "domain": "demoqa.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://demoqa.com",
+      "localStorage": [
+        {
+          "name": "totalCalls",
+          "value": "0"
+        },
+        {
+          "name": "totalCallsTimeout",
+          "value": "0"
+        },
+        {
+          "name": "lastSuccessfullAd",
+          "value": "0"
+        },
+        {
+          "name": "google_experiment_mod44",
+          "value": "462"
+        },
+        {
+          "name": "__VASTUtil__",
+          "value": "__VASTUtil__"
+        }
+      ]
+    }
+  ]
+}
